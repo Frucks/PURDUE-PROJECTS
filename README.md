@@ -2,7 +2,7 @@
 
 Hi!
 
-If you're seeing this I probably applied to your company. These projects are from all my coding classes, excluding labs (VPython, Verilog, Assembly) and CS 159 (C Programming).
+If you're seeing this I probably applied to your company. These projects are from all my coding classes, excluding labs (Assembly, Verilog, VPython) and CS 159 (C Programming).
 
 
 ## Advanced C Programming (ECE 264)
