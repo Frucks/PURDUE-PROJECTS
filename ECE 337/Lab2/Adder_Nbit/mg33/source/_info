@@ -1,0 +1,177 @@
+m255
+K4
+z2
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/ecegrid/a/mg33/ece337/Lab2
+vadder_1bit
+Z1 DXx6 sv_std 3 std 0 22 >9az<^>2ff9DAl3OFGaAf1
+!s110 1674516625
+!i10b 1
+!s100 9<;08HPX`B=b15[GM7jF@2
+IzS69HVQ23GiUk^YgBOj`D1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!s105 adder_1bit_sv_unit
+S1
+R0
+w1674056424
+8/home/ecegrid/a/mg33/ece337/Lab2/source/adder_1bit.sv
+F/home/ecegrid/a/mg33/ece337/Lab2/source/adder_1bit.sv
+L0 9
+Z3 OE;L;10.7a;67
+r1
+!s85 0
+31
+!s108 1674516625.000000
+!s107 /home/ecegrid/a/mg33/ece337/Lab2/source/adder_1bit.sv|
+!s90 -nologo|-work|source|/home/ecegrid/a/mg33/ece337/Lab2/source/adder_1bit.sv|
+!i113 0
+Z4 o-nologo -work source
+Z5 tCoverage 63 CoverExcludeDefault 1 CoverOpt 1 CoverShortCircuit 0 CvgOpt 0
+vadder_4bit
+R1
+!s110 1674518074
+!i10b 1
+!s100 5d;VnIE51]Y9P5eN7G<g<2
+IPo0nng2Uj=CdX0eV=lZRh3
+R2
+Z6 !s105 adder_nbit_sv_unit
+S1
+R0
+w1674518074
+Z7 8/home/ecegrid/a/mg33/ece337/Lab2/source/adder_nbit.sv
+Z8 F/home/ecegrid/a/mg33/ece337/Lab2/source/adder_nbit.sv
+L0 9
+R3
+r1
+!s85 0
+31
+!s108 1674518074.000000
+Z9 !s107 /home/ecegrid/a/mg33/ece337/Lab2/source/adder_nbit.sv|
+Z10 !s90 -nologo|-work|source|/home/ecegrid/a/mg33/ece337/Lab2/source/adder_nbit.sv|
+!i113 0
+R4
+R5
+vadder_8bit
+R1
+!s110 1674519361
+!i10b 1
+!s100 0H78WGe=OZYHTgC93U3T]2
+IzjzT=A@Jc1;c:Jm@J;O4E2
+R2
+!s105 adder_8bit_sv_unit
+S1
+R0
+w1674519360
+8/home/ecegrid/a/mg33/ece337/Lab2/source/adder_8bit.sv
+F/home/ecegrid/a/mg33/ece337/Lab2/source/adder_8bit.sv
+L0 9
+R3
+r1
+!s85 0
+31
+!s108 1674519360.000000
+!s107 /home/ecegrid/a/mg33/ece337/Lab2/source/adder_8bit.sv|
+!s90 -nologo|-work|source|/home/ecegrid/a/mg33/ece337/Lab2/source/adder_8bit.sv|
+!i113 0
+R4
+R5
+vadder_nbit
+R1
+!s110 1674519140
+!i10b 1
+!s100 e=Uo9[M0jB8:5L3z^@6Hi2
+I9BmZ_oE;P4z>B1kBXhHZ63
+R2
+R6
+S1
+R0
+w1674519140
+R7
+R8
+L0 9
+R3
+r1
+!s85 0
+31
+!s108 1674519140.000000
+R9
+R10
+!i113 0
+R4
+R5
+vtb_adder_1bit
+R1
+!s110 1674516632
+!i10b 1
+!s100 5QVVJchFPiJYL3P<AnBAP3
+IF18QK]1m0`32Jd?nLW<QQ2
+R2
+!s105 tb_adder_1bit_sv_unit
+S1
+R0
+w1674051003
+8/home/ecegrid/a/mg33/ece337/Lab2/source/tb_adder_1bit.sv
+F/home/ecegrid/a/mg33/ece337/Lab2/source/tb_adder_1bit.sv
+L0 6
+R3
+r1
+!s85 0
+31
+!s108 1674516632.000000
+!s107 /home/ecegrid/a/mg33/ece337/Lab2/source/tb_adder_1bit.sv|
+!s90 -nologo|-work|source|/home/ecegrid/a/mg33/ece337/Lab2/source/tb_adder_1bit.sv|
+!i113 0
+R4
+R5
+vtb_adder_4bit
+R1
+!s110 1674518893
+!i10b 1
+!s100 AcjTJ:g]hi0:Dzh1?67IL3
+IlF]YA^]`XZaa^^:eOd@AF2
+R2
+!s105 tb_adder_8_bit_sv_unit
+S1
+R0
+w1674518892
+8/home/ecegrid/a/mg33/ece337/Lab2/source/tb_adder_8_bit.sv
+F/home/ecegrid/a/mg33/ece337/Lab2/source/tb_adder_8_bit.sv
+Z11 L0 10
+R3
+r1
+!s85 0
+31
+!s108 1674518892.000000
+!s107 /home/ecegrid/a/mg33/ece337/Lab2/source/tb_adder_8_bit.sv|
+!s90 -nologo|-work|source|/home/ecegrid/a/mg33/ece337/Lab2/source/tb_adder_8_bit.sv|
+!i113 0
+R4
+R5
+vtb_adder_8bit
+R1
+!s110 1674519323
+!i10b 1
+!s100 8^=A:RmlJ9TWTl^i3^16d1
+Ic=V390dYTON=ooM?]m2_X0
+R2
+!s105 tb_adder_8bit_sv_unit
+S1
+R0
+w1674519321
+8/home/ecegrid/a/mg33/ece337/Lab2/source/tb_adder_8bit.sv
+F/home/ecegrid/a/mg33/ece337/Lab2/source/tb_adder_8bit.sv
+R11
+R3
+r1
+!s85 0
+31
+!s108 1674519323.000000
+!s107 /home/ecegrid/a/mg33/ece337/Lab2/source/tb_adder_8bit.sv|
+!s90 -nologo|-work|source|/home/ecegrid/a/mg33/ece337/Lab2/source/tb_adder_8bit.sv|
+!i113 0
+R4
+R5

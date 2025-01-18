@@ -1,0 +1,105 @@
+m255
+K4
+z2
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/ecegrid/a/mg33/ece337/Lab2
+vadder_1bit
+Z1 DXx6 sv_std 3 std 0 22 >9az<^>2ff9DAl3OFGaAf1
+!s110 1674516625
+!i10b 1
+!s100 9<;08HPX`B=b15[GM7jF@2
+IzS69HVQ23GiUk^YgBOj`D1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!s105 adder_1bit_sv_unit
+S1
+R0
+w1674056424
+8/home/ecegrid/a/mg33/ece337/Lab2/source/adder_1bit.sv
+F/home/ecegrid/a/mg33/ece337/Lab2/source/adder_1bit.sv
+L0 9
+Z3 OE;L;10.7a;67
+r1
+!s85 0
+31
+!s108 1674516625.000000
+!s107 /home/ecegrid/a/mg33/ece337/Lab2/source/adder_1bit.sv|
+!s90 -nologo|-work|source|/home/ecegrid/a/mg33/ece337/Lab2/source/adder_1bit.sv|
+!i113 0
+Z4 o-nologo -work source
+Z5 tCoverage 63 CoverExcludeDefault 1 CoverOpt 1 CoverShortCircuit 0 CvgOpt 0
+vadder_4bit
+R1
+!s110 1674517567
+!i10b 1
+!s100 5d;VnIE51]Y9P5eN7G<g<2
+I7JKJPkD6CVVT5NWPJEkWo1
+R2
+!s105 adder_4bit_sv_unit
+S1
+R0
+w1674514940
+8/home/ecegrid/a/mg33/ece337/Lab2/source/adder_4bit.sv
+F/home/ecegrid/a/mg33/ece337/Lab2/source/adder_4bit.sv
+L0 9
+R3
+r1
+!s85 0
+31
+!s108 1674517567.000000
+!s107 /home/ecegrid/a/mg33/ece337/Lab2/source/adder_4bit.sv|
+!s90 -nologo|-work|source|/home/ecegrid/a/mg33/ece337/Lab2/source/adder_4bit.sv|
+!i113 0
+R4
+R5
+vtb_adder_1bit
+R1
+!s110 1674516632
+!i10b 1
+!s100 5QVVJchFPiJYL3P<AnBAP3
+IF18QK]1m0`32Jd?nLW<QQ2
+R2
+!s105 tb_adder_1bit_sv_unit
+S1
+R0
+w1674051003
+8/home/ecegrid/a/mg33/ece337/Lab2/source/tb_adder_1bit.sv
+F/home/ecegrid/a/mg33/ece337/Lab2/source/tb_adder_1bit.sv
+L0 6
+R3
+r1
+!s85 0
+31
+!s108 1674516632.000000
+!s107 /home/ecegrid/a/mg33/ece337/Lab2/source/tb_adder_1bit.sv|
+!s90 -nologo|-work|source|/home/ecegrid/a/mg33/ece337/Lab2/source/tb_adder_1bit.sv|
+!i113 0
+R4
+R5
+vtb_adder_4bit
+R1
+!s110 1674517189
+!i10b 1
+!s100 NFMN]U:DJD@g_ci@llf2<2
+IUVALb4VMkI1Rm`_mNU1Pe2
+R2
+!s105 tb_adder_4bit_sv_unit
+S1
+R0
+w1674517188
+8/home/ecegrid/a/mg33/ece337/Lab2/source/tb_adder_4bit.sv
+F/home/ecegrid/a/mg33/ece337/Lab2/source/tb_adder_4bit.sv
+L0 10
+R3
+r1
+!s85 0
+31
+!s108 1674517189.000000
+!s107 /home/ecegrid/a/mg33/ece337/Lab2/source/tb_adder_4bit.sv|
+!s90 -nologo|-work|source|/home/ecegrid/a/mg33/ece337/Lab2/source/tb_adder_4bit.sv|
+!i113 0
+R4
+R5
